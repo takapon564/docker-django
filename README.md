@@ -9,4 +9,5 @@
 `$ cd mkdir`  
 * `$ git clone https://github.com/takapon564/docker-django.git`  
 * `$ docker-compose up -d`
-
+> これでコンテナが完成しました。  
+次はDB接続などの最低限の設定を行っていきます。
