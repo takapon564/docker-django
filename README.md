@@ -25,4 +25,10 @@
  83     }
  84 }
 ```
-
+## portの設定を行う。  
+* `$ vim examplepj/settings.py`  
+* `ALLOWED_HOSTS = ['<localhost or IP addres>']`  
+## dockerコンテナを立ち上げブラウザからアクセス  
+* `$ docker-compose up -d`  
+* ブラウザからhttp:localhostにアクセスし、djangoの  
+トップ画面が表示されていれば成功。
