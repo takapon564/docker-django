@@ -8,7 +8,7 @@
 * `$ mkdir app`  
 `$ cd mkdir`  
 * `$ git clone https://github.com/takapon564/docker-django.git`  
-* `$ docker-compose run web  django-admin.py startproject examplepj .f`
+* `$ docker-compose run web  django-admin.py startproject examplepj .`
 > これでコンテナビルドが完了しました。。  
 カレントディレクトリを確認し、プロジェクトが作成されていることを確認してください。  
 ## DBの接続情報を追記する。
