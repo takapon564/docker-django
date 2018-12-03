@@ -6,7 +6,7 @@
 
 ## 作業用のディレクトリを作成する  
 * `$ mkdir app`  
-`$ cd mkdir`  
+`$ cd app`  
 * `$ git clone https://github.com/takapon564/docker-django.git`  
 * `$ docker-compose run web  django-admin.py startproject examplepj .`
 > これでコンテナビルドが完了しました。。  
